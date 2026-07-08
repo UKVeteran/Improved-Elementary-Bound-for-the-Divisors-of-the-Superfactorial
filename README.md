@@ -76,6 +76,3 @@ The companion verification scripts evaluate exact integer boundaries across the 
 * A standard LaTeX environment (`pdflatex`)
 * Python 3.x (Optional, for computing localized validation arrays)
 
-### Compile the Manuscript
-```bash
-pdflatex superfactorial_bounds.tex
