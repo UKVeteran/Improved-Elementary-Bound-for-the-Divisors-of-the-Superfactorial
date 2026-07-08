@@ -13,7 +13,6 @@
     <a href="#%EF%B8%8F-verification">Verification</a>
   </p>
 </div>
----
 
 ## 📑 Abstract
 Let $S_n = \prod_{k=1}^n k!$ denote the superfactorial of $n$, and let $d(k)$ count the positive divisors of $k$. This repository presents a streamlined proof of the lower bound:
@@ -22,7 +21,7 @@ $$\bbox[10px,border:2px solid #2563eb,text-align:center]{d(S_n) \ge \frac{n^n}{n
 
 for all $n \ge 1$, completely characterizing the equality cases and providing algorithmic verification for small intervals.
 
----
+
 
 ## 🎯 Key Results
 
@@ -36,7 +35,7 @@ $$d(1! \, 2! \cdots n!) \ge \frac{n^n}{n!}$$
 For any prime $p \le n$, letting $e_p = v_p(S_n)$, the $p$-adic valuation satisfies:
 $$e_p + 1 \ge \frac{n(n + 2 - p)}{2p}$$
 
----
+
 
 ## 📊 Analytical Domain Breakdown
 
@@ -54,7 +53,6 @@ For lower intervals ($1 \le n \le 5$), the theorem is explicitly verified below.
 
 </div>
 
----
 
 ## 📈 Asymptotic Scaling Behavior
 
