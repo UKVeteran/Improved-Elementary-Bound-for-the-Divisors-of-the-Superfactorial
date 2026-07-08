@@ -7,10 +7,10 @@
   <p align="center"><strong>An Improved Elementary Bound for the Divisors of the Superfactorial ($S_n$)</strong></p>
   
   <p align="center">
-    <a href="#-key-results">Key Results</a> •
-    <a href="#-mathematical-framework">Mathematical Framework</a> •
-    <a href="#-asymptotic-scaling">Asymptotic Analysis</a> •
-    <a href="#%EF%B8%8F-verification">Verification</a>
+    <a href="\#-key-results">Key Results</a> •
+    <a href="\#-mathematical-framework">Mathematical Framework</a> •
+    <a href="\#-asymptotic-scaling">Asymptotic Analysis</a> •
+    <a href="\#%EF%B8%8F-verification">Verification</a>
   </p>
 </div>
 
