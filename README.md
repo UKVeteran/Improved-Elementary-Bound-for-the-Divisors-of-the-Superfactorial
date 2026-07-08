@@ -84,10 +84,7 @@ Three critical behaviors emerge from the empirical data:
 * **The Lower Interval Domain:** The intermediate prime product bound $B_n$ drops temporarily below the target bound $\frac{n^n}{n!}$ during the local initial values ($3 \le n \le 5$). However, at exactly $n = 6$, $B_n$ permanently overtakes the target threshold ($B_6 = 81.0 > 64.8$), justifying the split-domain framework used in the proof.
 * **Boundary Cases:** Exact integer evaluation confirms $d(S_1) = 1$ and $d(S_2) = 2$, matching the algebraic values of $\frac{1^1}{1!}$ and $\frac{2^2}{2!}$ respectively. This completely characterizes the necessary and sufficient conditions for equality.
 
----
-<div align="center">
-  <sub>Manuscript framework & repo architecture authored by <strong>JMA</strong> • 2026</sub>
-</div>
+
 ## 🛠️ Verification & Build Instructions
 
 The companion verification scripts evaluate exact integer boundaries across the domain $6 \le n < 150$.
