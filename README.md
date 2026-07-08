@@ -66,7 +66,7 @@ $$\log\left(\frac{n^n}{n!}\right) = n - \frac{1}{2}\log n - \frac{1}{2}\log(2\pi
 
 > 💡 **Asymptotic Takeaway:** Because $1 - \log 2 \approx 0.3069 > 0$, the secondary term of our bound grows positive-dominantly at $O(n/\log n)$, while the Stirling threshold decays. Thus, the bound becomes progressively sharper as $n \to \infty$.
 
----
+
 
 ## 🛠️ Verification & Build Instructions
 
