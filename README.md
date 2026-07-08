@@ -17,7 +17,7 @@
 ## 📑 Abstract
 Let $S_n = \prod_{k=1}^n k!$ denote the superfactorial of $n$, and let $d(k)$ count the positive divisors of $k$. This repository presents a streamlined proof of the lower bound:
 
-$$\bbox[10px,border:2px solid royalblue,text-align:center]{d(S_n) \ge \frac{n^n}{n!}}$$
+$$\boxed{ d(S_n) \ge \frac{n^n}{n!} }$$
 
 for all $n \ge 1$, completely characterizing the equality cases and providing algorithmic verification for small intervals.
 
